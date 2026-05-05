@@ -6,7 +6,7 @@ A simple family relationship matchup. Involves simple relationship for simplicit
 
 Clone
 ```sh
-git clone https://github.com/kutt27/family-explorer
+git clone https://github.com/kutt27/family-explorer.git
 ```
 
 Then:
