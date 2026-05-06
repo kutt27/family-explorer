@@ -13,11 +13,11 @@ male(john).
 male(mike).
 male(tom).
 male(paul).
-male(susan).
 
 % female/1 - female individuals
 female(mary).
 female(ann).
+female(susan).
 
 % ========================
 % RULES
